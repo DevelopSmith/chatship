@@ -1,0 +1,24 @@
+{
+  "name": "chatship",
+  "version": "0.0.1",
+  "description": "Chat package that works out-of-the-box",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevelopSmith/chatship.git"
+  },
+  "keywords": [
+    "chat",
+    "chat",
+    "engine"
+  ],
+  "author": "DevelopSmith <designsuniverse@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevelopSmith/chatship/issues"
+  },
+  "homepage": "https://github.com/DevelopSmith/chatship#readme"
+}
