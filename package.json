@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/DevelopSmith/chatship/issues"
   },
-  "homepage": "https://github.com/DevelopSmith/chatship#readme"
+  "homepage": "https://github.com/DevelopSmith/chatship#readme",
+  "dependencies": {
+    "httpdispatcher": "^2.1.2",
+    "path-to-regexp": "^3.0.0",
+    "routes": "^2.1.0",
+    "socket.io": "^2.2.0"
+  }
 }
